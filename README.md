@@ -107,7 +107,7 @@ Transfer/sec:    642.81KB
 ```
 
 # Conclusion:
-We can see the test result of each http server and how mormot wins the challenge, fpc mormot is 3 times faster than node and 2 times faster than fpc Brook, http server with python is the slowest based on the result. please contact me with any suggestions to improve any of the servers and thank you.
+We can see the test result of each http server and how mormot wins the challenge, fpc mormot is 3 times faster than node and 2 times faster than fpc Brook, http server with python is the slowest based on the result. please contact me with any suggestions to improve any of these servers and thank you.
 email: i.belarouci@gmail.com.
 
 
